@@ -3,7 +3,9 @@
 
 In this deep learning project, we have created a real-time, user-friendly app where the user can capture images of meat and instantly determine the freshness level. The dataset was collected from IEEE Dataport and includes classes labeled as 0 hour, 12 hours, 24 hours, 36 hours, and 48 hours.
 
+<p></p>
 
+<p></p>
 <img  src="https://github.com/user-attachments/assets/a5e9dbf1-65e3-4b02-814d-9b9b607041e9" width="300" alt="App Screenshot">
 
 <p></p>
